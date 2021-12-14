@@ -6,7 +6,7 @@ Smander.com uses the dokan Rest API based on the Woocommerce/Wordpress Rest API
 Authorization is done via JWT.
 All connections must be SSL encrypted.
 
-in this repo we collect usage instructions and examples that should streamline and selling and sourcing on smander.com
+in this repo we collect usage instructions and examples that should streamline  selling and sourcing on smander.com
 
 Please note that the API is currently not fully developed and some functions are not implemented yet.
 most of the functions documented here should work:
