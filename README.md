@@ -1,3 +1,7 @@
+DEPRECATED Smanders shop component is EOL
+this api does not lead anywhere anymore, leaving it up for documentation and later reference
+
+
 # SmanderAPI
 API usage and examples for Smander.com
 
